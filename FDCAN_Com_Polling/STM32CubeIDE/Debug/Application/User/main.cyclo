@@ -1,0 +1,7 @@
+/Users/carlosjaimes/Documents/ME433/FDCAN_Com_Polling/Src/main.c:80:5:main	13
+/Users/carlosjaimes/Documents/ME433/FDCAN_Com_Polling/Src/main.c:238:6:SystemClock_Config	3
+/Users/carlosjaimes/Documents/ME433/FDCAN_Com_Polling/Src/main.c:277:13:MX_FDCAN1_Init	2
+/Users/carlosjaimes/Documents/ME433/FDCAN_Com_Polling/Src/main.c:320:13:MX_GPIO_Init	1
+/Users/carlosjaimes/Documents/ME433/FDCAN_Com_Polling/Src/main.c:339:6:BSP_PB_Callback	3
+/Users/carlosjaimes/Documents/ME433/FDCAN_Com_Polling/Src/main.c:365:17:BufferCmp8b	3
+/Users/carlosjaimes/Documents/ME433/FDCAN_Com_Polling/Src/main.c:385:6:Error_Handler	1
